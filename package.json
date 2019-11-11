@@ -1,0 +1,17 @@
+{
+  "name": "thingy-x2-airtable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "airtable": "^0.7.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Julia Kulgavchuk",
+  "license": "MIT"
+}
