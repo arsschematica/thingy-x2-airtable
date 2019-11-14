@@ -47,3 +47,8 @@ In the root folder of the project you'll need to create a file called env.json w
 * run `node server.js`
 * open browser on port `8080`
 * connect your devices
+
+## Thanks to
+* [Lars Knudsen](https://github.com/larsgk/)
+* [ClementJu/BLE-devices-Spotify](https://github.com/ClementJu/BLE-devices-Spotify)
+* [Basil Safwat](http://www.basilsafwat.com/)
